@@ -1,6 +1,1 @@
-Alias /webhuy "D:/be1_vohaanhhuy/wek10"
-    <Directory "D:/be1_vohaanhhuy/wek10">
-        Options Indexes FollowSymLinks
-    AllowOverride All
-    Require all granted
-    </Directory>
+đã chỉnh sửa
